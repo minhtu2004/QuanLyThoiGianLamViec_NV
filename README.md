@@ -11,6 +11,6 @@ Môn học Lập trình Hướng đối tượng (OOP).
 * Cập nhật ngày mới, dữ liệu từng ngày trong tháng được lưu lại.
 * Xóa/thêm/chỉnh sửa thông tin nhân viên.
 
-## Công nghệ sử dụng
+## Ngôn ngữ sử dụng
 * Ngôn ngữ: C++
 * Kỹ thuật: OOP (Kế thừa, Đa hình), Vector, File I/O.
